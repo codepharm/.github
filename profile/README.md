@@ -2,4 +2,4 @@
 
 This is a place for new and upcoming software developers to practice collaborative coding. 🤝 💻
 
-> 💊 Some of us come from a pharma background 🧪 and we all love to code! 🧑🏻‍💻 👩🏼‍💻 👨🏻‍💻
+> 🧪 Some of us come from a pharma background 💊 and we all love to code! 🧑🏻‍💻 👩🏼‍💻 👨🏻‍💻
