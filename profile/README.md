@@ -4,4 +4,4 @@ This organization is a place for new and upcoming software developers to practic
 
 Some of us come from a pharma background, but we all love to code.
 
-Please be polite and helpful to all contributors, thank you!
+> Please be polite and helpful to all contributors, thank you!
