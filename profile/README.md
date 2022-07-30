@@ -3,3 +3,5 @@
 This is a place for new and upcoming software developers to practice collaborative coding. 🤝 💻
 
 > 🧪 Some of us come from a pharma background 💊 and we all love to code! 🧑🏻‍💻 👩🏼‍💻 👨🏻‍💻
+
+[Project Board](https://github.com/orgs/codepharm/projects/1) | [Discussion Board](https://github.com/orgs/codepharm/teams/codepharmers) | [Playground Notepad](https://github.com/codepharm/playground/wiki/%5BcodePharm%5D-Playground-Notepad)
