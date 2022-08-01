@@ -1,4 +1,4 @@
-# Welcome to the **```[codePharm]```** [<img src='https://codetracklift.github.io/codeTrackLift/logos/giphyPharma2Code.gif' alt='codeByPete logo' width='30'>](https://www.codebypete.com)
+# Welcome to the [<img src='https://codetracklift.github.io/codeTrackLift/logos/giphyPharma2Code.gif' alt='codeByPete logo' width='30'>](https://www.codebypete.com) **```[codePharm]```** 🐮
 
 This is a place for new and upcoming software developers to practice 🤝 collaborative coding 💻
 
