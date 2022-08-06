@@ -6,8 +6,8 @@ This is a place for new and upcoming software developers to practice 🤝 collab
 
 ## [Playground] Shortcuts
 
-[Project 🤝 Board](https://github.com/orgs/codepharm/projects/1) | [Wiki 📝 Notepad](https://github.com/codepharm/playground/wiki) | [```💬 Discussions```](https://github.com/codepharm/playground/discussions) | [Create ✨ Issue](https://github.com/codepharm/playground/issues) | [Team 📊 Metrics](https://github.com/codepharm/playground/pulse) 
+[Project 🤝 Board](https://github.com/orgs/codepharm/projects/1) | [Wiki 📝 Notepad](https://github.com/codepharm/playground/wiki) | [```Group 💬 Discussions```](https://github.com/codepharm/playground/discussions) | [Create ✨ Issue](https://github.com/codepharm/playground/issues) | [Team 📊 Metrics](https://github.com/codepharm/playground/pulse) 
 
 ##
 
-> [```🐓 codePharmers 🚜```](https://github.com/orgs/codepharm/teams/codepharmers)
+> Maintainer Discussions: [```🐓 codePharmers 🚜```](https://github.com/orgs/codepharm/teams/codepharmers)
