@@ -4,6 +4,10 @@ This is a place for new and upcoming software developers to practice 🤝 collab
 
 > 🧪 Some of us come from a pharma background 💊 && we all love to code 🧑🏻‍💻 👩🏼‍💻 👨🏻‍💻
 
-### [Project 🤝 Board](https://github.com/orgs/codepharm/projects/1) | [```Repo 💬 Discussions```](https://github.com/codepharm/playground/discussions) | [Wiki 📝 Notepad](https://github.com/codepharm/playground/wiki)
+## [Playground] Shortcuts
 
-> [Playground ✨ Issue](https://github.com/codepharm/playground/issues) |  [```🐓 codePharmers 🚜```](https://github.com/orgs/codepharm/teams/codepharmers) | [Playground 📊 Metrics](https://github.com/codepharm/playground/pulse) 
+[Project 🤝 Board](https://github.com/orgs/codepharm/projects/1) | [Wiki 📝 Notepad](https://github.com/codepharm/playground/wiki) | [```💬 Discussions```](https://github.com/codepharm/playground/discussions) | [Create ✨ Issue](https://github.com/codepharm/playground/issues) | [Team 📊 Metrics](https://github.com/codepharm/playground/pulse) 
+
+##
+
+> [```🐓 codePharmers 🚜```](https://github.com/orgs/codepharm/teams/codepharmers)
