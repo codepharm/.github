@@ -1,6 +1,6 @@
 # Welcome to the [<img src='https://codetracklift.github.io/codeTrackLift/logos/giphyPharma2Code.gif' alt='codeByPete logo' width='30'>](https://www.codebypete.com) **```[codePharm]```** 🐮
 
-This is a place for new and upcoming software developers to practice 🤝 collaborative coding 💻
+We are a group of freelancer developers who work on our client projects, as well as collaborate with other developers.  The codePharm was organically developed as our 🤝 collaborative coding 💻 development hub.
 
 > 🧪 Some of us come from a pharma background 💊 && we all love to code 🧑🏻‍💻 👩🏼‍💻 👨🏻‍💻
 
