@@ -2,7 +2,8 @@
 
 We are a group of freelancer developers who work on our client projects, as well as collaborate with other developers.  The codePharm was organically developed as our 🤝 collaborative coding 💻 development hub.
 
-> 🧪 Some of us come from a pharma background 💊 && we all love to code 🧑🏻‍💻 👩🏼‍💻 👨🏻‍💻
+> 🧪 Some of us come from a pharma background 💊 && we all love to code 🧑🏻‍💻 👩🏼‍💻 👨🏻‍💻  
+> Please reach out and make a connection before any contributions.  Thank you! 🙏
 
 ## [Playground] Shortcuts
 
