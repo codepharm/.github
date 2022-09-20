@@ -6,12 +6,6 @@
 
 #
 
-> ### Please reach out and make a connection before making a contribution.  Thank you! 🙏
+> ### Please reach out and make a connection if you would like to make a contribution.  Thank you! 🙏
 
-[[Playground]](https://github.com/codepharm/playground#readme) Shortcuts:
-
-[Project 🤝 Board](https://github.com/orgs/codepharm/projects/1) | [Wiki 📝 Notepad](https://github.com/codepharm/playground/wiki) | [```Group 💬 Discussions```](https://github.com/codepharm/playground/discussions) | [Create ✨ Issue](https://github.com/codepharm/playground/issues) | [Team 📊 Metrics](https://github.com/codepharm/playground/pulse) 
-
-##
-
-> [```🐓 codePharmers Discussions 🚜```](https://github.com/orgs/codepharm/teams/codepharmers)
+[```🐓 codePharmers Discussions 🚜```](https://github.com/orgs/codepharm/teams/codepharmers)
